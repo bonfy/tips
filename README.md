@@ -10,6 +10,8 @@
 
 ## 测试相关
 
+- [nose简介](http://pythontesting.net/framework/nose/nose-introduction/)
+
 ## 数据库相关
 
 ## 网站学习资源
