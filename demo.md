@@ -22,6 +22,9 @@ with codecs.open(filename,'a','utf-8') as f:
 ## logging demo
 
 ```python
+import logging
+import logging.handlers
+
 # setting logging
 
 LOG_FILE = 'tst.log'
