@@ -1,5 +1,17 @@
 ### DEMO
 
+
+## Windows default is ASCII change to utf-8
+```python
+import platform
+sysstr = platform.system()
+if sysstr == 'Windows':
+    import sys 
+    reload(sys) # Python2.5 初始化后会删除 sys.setdefaultencoding 这个方法，我们需要重新载入 
+    sys.setdefaultencoding('utf-8') 
+
+```
+
 ## Windows open file
 
 usually we do like this:
