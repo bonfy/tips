@@ -87,3 +87,21 @@ USER_AGENTS = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/2010
 r = requests.get(url, proxies = _PROXIES, headers={'User-Agent': random.choice(USER_AGENTS)} )
 
 ```
+
+## get time stamp
+
+``` python
+import os
+import datetime
+
+def get_stamp():
+    """ get time stamp
+        :return: string (stamp like '12:00')
+    """
+    os.environ['TZ'] = 'Asia/Shanghai'
+    now = datetime.datetime.now()
+    stamp = now.strftime('%H:%M')
+    os.environ['TZ'] = 'UTC'
+    return stamp
+    
+```
