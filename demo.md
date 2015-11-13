@@ -105,3 +105,13 @@ def get_stamp():
     return stamp
     
 ```
+
+## python count
+
+``` python
+from itertools import count
+for page in count(1):
+    print page
+    if flag:
+        return
+```
