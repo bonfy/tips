@@ -2,6 +2,11 @@
 
 这里汇集学习Python的一些Tips 及 经常使用的代码存档
 
+
+## PEP
+- [PEP8](https://www.python.org/dev/peps/pep-0008/)
+- [PEP20](https://www.python.org/dev/peps/pep-0020/)
+
 ## 标准库相关
 
 - [Pool 并行任务](http://python.jobbole.com/58700/)
