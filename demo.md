@@ -115,3 +115,32 @@ for page in count(1):
     if flag:
         return
 ```
+
+
+## to_unicode from werkzeug  [source](https://github.com/mitsuhiko/werkzeug/blob/master/werkzeug/_compat.py)
+
+```python
+import sys
+PY2 = sys.version_info[0] == 2
+
+if PY2:
+    unichr = unichr
+    text_type = unicode
+    string_types = (str, unicode)
+    integer_types = (int, long)
+else:
+    unichr = chr
+    text_type = str
+    string_types = (str, )
+    integer_types = (int, )
+    
+def to_unicode(x, charset=sys.getdefaultencoding(), errors='strict',
+               allow_none_charset=False):
+    if x is None:
+        return None
+    if not isinstance(x, bytes):
+        return text_type(x)
+    if charset is None and allow_none_charset:
+        return x
+    return x.decode(charset, errors)
+```
