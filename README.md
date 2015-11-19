@@ -5,6 +5,7 @@
 
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
+- [PEP8 中文翻译版](http://www.open-open.com/lib/view/open1433813937629.html)
 - [PEP20](https://www.python.org/dev/peps/pep-0020/)
 
 ## 标准库相关
