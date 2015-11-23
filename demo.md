@@ -144,3 +144,15 @@ def to_unicode(x, charset=sys.getdefaultencoding(), errors='strict',
         return x
     return x.decode(charset, errors)
 ```
+
+
+## long url set value in PEP8
+
+```python
+signature_url = (
+    '/?signature=16f39f0c528790d3a448a8a7a65cc81ceddd82bb&'
+    'echostr=5935258128547730623&'
+    'timestamp=1381389497&'
+    'nonce=1381909961'
+)
+```
