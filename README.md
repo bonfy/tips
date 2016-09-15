@@ -6,6 +6,7 @@
 ## Github相关
 
 - [How To Pull Request](https://www.zhihu.com/question/21682976)
+- [GitHub Help Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
