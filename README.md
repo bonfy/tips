@@ -3,6 +3,10 @@
 这里汇集学习Python的一些Tips 及 经常使用的代码存档
 
 
+## Github相关
+
+- [How To Pull Request](https://www.zhihu.com/question/21682976)
+
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [PEP8 中文翻译版](http://www.open-open.com/lib/view/open1433813937629.html)
