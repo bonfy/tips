@@ -17,6 +17,7 @@
 
 - [Pool 并行任务](http://python.jobbole.com/58700/)
 - [定制类的特殊方法](http://www.jb51.net/article/55734.htm)
+- [python中的 @ 修饰符](http://blog.csdn.net/lainegates/article/details/8166764)
 
 ## Office相关
 
