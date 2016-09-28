@@ -7,6 +7,7 @@
 
 - [How To Pull Request](https://www.zhihu.com/question/21682976)
 - [GitHub Help Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+- [livos 使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
 
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
