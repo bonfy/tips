@@ -14,6 +14,10 @@
 - [PEP8 中文翻译版](http://www.open-open.com/lib/view/open1433813937629.html)
 - [PEP20](https://www.python.org/dev/peps/pep-0020/)
 
+## 基础类型相关
+
+- [Python集合（set）类型的操作](http://blog.csdn.net/business122/article/details/7541486)
+
 ## 标准库相关
 
 - [Pool 并行任务](http://python.jobbole.com/58700/)
