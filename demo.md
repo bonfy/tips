@@ -156,3 +156,11 @@ signature_url = (
     'nonce=1381909961'
 )
 ```
+
+## sanitize filename
+```python
+import re
+
+def sanitize_filename(filename):
+    return re.sub(r'[\\/:*?<>|]', '_', filename)
+```
