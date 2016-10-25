@@ -11,7 +11,7 @@
 
 ## MAC相关
 
--[Homebrew 安装 与 卸载](http://blog.csdn.net/arthur_d/article/details/8373410)
+- [Homebrew 安装 与 卸载](http://blog.csdn.net/arthur_d/article/details/8373410)
 
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
