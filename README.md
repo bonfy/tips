@@ -9,6 +9,10 @@
 - [GitHub Help Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 - [livos 使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
 
+## MAC相关
+
+-[Homebrew 安装 与 卸载](http://blog.csdn.net/arthur_d/article/details/8373410)
+
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [PEP8 中文翻译版](http://www.open-open.com/lib/view/open1433813937629.html)
