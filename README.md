@@ -13,6 +13,10 @@
 
 - [Homebrew 安装 与 卸载](http://blog.csdn.net/arthur_d/article/details/8373410)
 
+## 编辑器
+
+- [Vim CheatSheet](http://cenalulu.github.io/linux/all-vim-cheatsheat/)
+
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [PEP8 中文翻译版](http://www.open-open.com/lib/view/open1433813937629.html)
