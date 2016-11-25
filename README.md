@@ -52,6 +52,11 @@
 - [雨痕](https://github.com/qyuhen/book)
 - [Pyzh](http://pyzh.readthedocs.io/)
 
+## 刷题
+
+- [leetcode](https://leetcode.com/)
+- [99 Prolog Problems](https://web.ti.bfh.ch/~hew1/informatik3/prolog/p-99/)
+
 ## Markdown
 
 - [mdeditor](https://www.zybuluo.com/mdeditor)
