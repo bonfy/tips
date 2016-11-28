@@ -17,6 +17,7 @@
 ## 编辑器
 
 - [Vim CheatSheet](http://cenalulu.github.io/linux/all-vim-cheatsheat/)
+- [Vim commands CheatSheet](https://wincent.com/wiki/Vim_cheatsheet)
 
 ## PEP
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
