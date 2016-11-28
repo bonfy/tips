@@ -12,6 +12,7 @@
 ## MAC相关
 
 - [Homebrew 安装 与 卸载](http://blog.csdn.net/arthur_d/article/details/8373410)
+- [Mac OS X配置笔记 阿小信](http://axiaoxin.com/article/173/)
 
 ## 编辑器
 
