@@ -1,5 +1,4 @@
-### DEMO
-
+# DEMO
 
 ## Windows default is ASCII change to utf-8
 ```python
