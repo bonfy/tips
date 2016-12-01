@@ -9,6 +9,7 @@
 - [GitHub Help Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 - [livos 使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
 - [Remove sensitive data](https://help.github.com/articles/remove-sensitive-data/)
+- [.gitignore无效的原因](http://blog.csdn.net/zhangjs0322/article/details/37658669) [解决办法](http://www.pfeng.org/archives/840)
 
 ## MAC相关
 
