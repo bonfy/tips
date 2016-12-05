@@ -16,6 +16,10 @@
 - [Homebrew 安装 与 卸载](http://blog.csdn.net/arthur_d/article/details/8373410)
 - [Mac OS X配置笔记](http://axiaoxin.com/article/173/)
 
+## Windows相关
+
+- [Python | 用Pyinstaller打包发布exe应用](http://jingyan.baidu.com/article/a378c960b47034b3282830bb.html) [PyInstaller地址](https://github.com/pyinstaller/pyinstaller)
+
 ## 编辑器
 
 - [Vim CheatSheet](http://cenalulu.github.io/linux/all-vim-cheatsheat/)
