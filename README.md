@@ -43,6 +43,17 @@
 
 ## Office相关
 
+## WEB开发相关
+
+### CSS
+
+- [学习CSS布局](http://zh.learnlayout.com/index.html)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [playbook.samaltman](playbook.samaltman.com)
+
+### Javascript
+
+
 ## 测试相关
 
 - [nose简介](http://pythontesting.net/framework/nose/nose-introduction/)
