@@ -64,6 +64,7 @@
 
 - [explore-flask](https://github.com/rpicard/explore-flask)
 - [overholt](https://github.com/mattupstate/overholt)
+- [python web 部署：nginx+gunicorn+supervisor+flask mac 平台](http://www.jianshu.com/p/6dce773cb6b8)
 
 ## 网站学习资源
 
