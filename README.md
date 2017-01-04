@@ -74,6 +74,12 @@
 - [雨痕](https://github.com/qyuhen/book)
 - [Pyzh](http://pyzh.readthedocs.io/)
 
+### 文档
+
+- [devdoc.io](http://devdocs.io/)  - 真心不错，值得推荐
+
+### 书籍
+
 ## 刷题
 
 - [leetcode](https://leetcode.com/)
