@@ -43,6 +43,11 @@
 
 ## Office相关
 
+## 爬虫相关
+
+- [chardet](https://github.com/chardet/chardet)      —— 检测字符集
+- [cChardet](https://github.com/PyYoshi/cChardet)    —— 检测字符集(C 语言版)
+
 ## WEB开发相关
 
 ### CSS
