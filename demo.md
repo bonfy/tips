@@ -163,3 +163,24 @@ import re
 def sanitize_filename(filename):
     return re.sub(r'[\\/:*?<>|]', '_', filename)
 ```
+
+## file md5 From Scrapy.utils.misc
+
+``` python
+def md5sum(file):
+    """Calculate the md5 checksum of a file-like object without reading its
+    whole content in memory.
+
+    >>> from io import BytesIO
+    >>> md5sum(BytesIO(b'file content to hash'))
+    '784406af91dd5a54fbb9c84c2236595a'
+    """
+    m = hashlib.md5()
+    while True:
+        d = file.read(8096)
+        if not d:
+            break
+        m.update(d)
+    return m.hexdigest()
+```
+
